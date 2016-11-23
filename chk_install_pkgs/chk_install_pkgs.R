@@ -1,7 +1,7 @@
 # check package installed and load them all
 
 chk.install.pkgs <- function(required.pkgs) {
-  
+
   # @param vector, string/ name of packages to load
   
   # install packages if not installed
